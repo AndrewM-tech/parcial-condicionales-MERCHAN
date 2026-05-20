@@ -1,0 +1,25 @@
+# Archivos compilados de Java
+*.class
+*.jar
+
+# Carpetas de compilación
+target/
+out/
+build/
+bin/
+
+# Archivos de proyecto de IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.log
+*.tmp
